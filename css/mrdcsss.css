@@ -1,0 +1,32 @@
+.album-thumbnails a {
+	/* set the desired width/height and margin here */
+	width: 70px;
+	height: 100px;
+	margin-right: 0px;
+	position: relative;
+	overflow: hidden;
+	display: inline-block;
+}
+
+.album-thumbnails a img {
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	height: 70px;
+	width: auto;
+	-webkit-transform: translate(-50%, -50%);
+	-ms-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+	
+}
+
+.album-thumbnails a img.portrait {
+	width: 70px;
+	height: auto;
+}
+
+.album-thumbnails a img.square {
+	width: 70px;
+	height: 70px;
+}
+

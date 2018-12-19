@@ -1,0 +1,22 @@
+[18-Jan-2018 10:35:04 UTC] PHP Warning:  require_once(db.php): failed to open stream: No such file or directory in /home/lgr5gtfq/public_html/index.php on line 8
+[18-Jan-2018 10:35:04 UTC] PHP Fatal error:  require_once(): Failed opening required 'db.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/lgr5gtfq/public_html/index.php on line 8
+[18-Jan-2018 10:37:57 UTC] PHP Warning:  require_once(db.php): failed to open stream: No such file or directory in /home/lgr5gtfq/public_html/index.php on line 8
+[18-Jan-2018 10:37:57 UTC] PHP Fatal error:  require_once(): Failed opening required 'db.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/lgr5gtfq/public_html/index.php on line 8
+[19-Jan-2018 20:07:24 UTC] PHP Warning:  require_once(db.php): failed to open stream: No such file or directory in /home/lgr5gtfq/public_html/index.php on line 8
+[19-Jan-2018 20:07:24 UTC] PHP Fatal error:  require_once(): Failed opening required 'db.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/lgr5gtfq/public_html/index.php on line 8
+[20-Jan-2018 05:29:36 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'10.10.28.55' (using password: NO) in /home/lgr5gtfq/public_html/db.php on line 10
+[20-Jan-2018 05:35:10 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'aponsaha'@'10.10.28.55' (using password: YES) in /home/lgr5gtfq/public_html/db.php on line 10
+[20-Jan-2018 05:36:10 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'aponsaha'@'10.10.28.55' (using password: YES) in /home/lgr5gtfq/public_html/db.php on line 10
+[20-Jan-2018 05:36:41 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'APONSAHA'@'10.10.28.55' (using password: YES) in /home/lgr5gtfq/public_html/db.php on line 10
+[20-Jan-2018 05:37:50 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'aponsaha-001'@'10.10.28.55' (using password: YES) in /home/lgr5gtfq/public_html/db.php on line 10
+[20-Jan-2018 05:49:26 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'aponsaha-001'@'10.10.28.55' (using password: YES) in /home/lgr5gtfq/public_html/db.php on line 10
+[20-Jan-2018 05:51:40 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/lgr5gtfq/public_html/db.php on line 10
+[20-Jan-2018 05:54:13 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'lgr5gtfq_root'@'%' to database 'lgr5gtfq_xyrus' in /home/lgr5gtfq/public_html/db.php on line 10
+[20-Jan-2018 05:55:37 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'lgr5gtfq_root'@'%' to database 'lgr5gtfq_xyrus' in /home/lgr5gtfq/public_html/db.php on line 10
+[20-Jan-2018 05:55:48 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'lgr5gtfq_root'@'%' to database 'lgr5gtfq_xyrus' in /home/lgr5gtfq/public_html/db.php on line 10
+[20-Jan-2018 05:56:00 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'lgr5gtfq_root'@'%' to database 'lgr5gtfq_xyrus' in /home/lgr5gtfq/public_html/db.php on line 10
+[20-Jan-2018 05:57:51 UTC] PHP Warning:  mysqli::mysqli(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lgr5gtfq/public_html/db.php on line 10
+[20-Jan-2018 05:57:51 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lgr5gtfq/public_html/db.php on line 10
+[20-Jan-2018 05:58:49 UTC] PHP Warning:  mysqli::mysqli(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lgr5gtfq/public_html/db.php on line 10
+[20-Jan-2018 05:58:49 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lgr5gtfq/public_html/db.php on line 10
+[20-Jan-2018 06:00:33 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'lgr5gtfq_root'@'%' to database 'lgr5gtfq_xyrus' in /home/lgr5gtfq/public_html/db.php on line 10
